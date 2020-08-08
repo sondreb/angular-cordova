@@ -25,11 +25,16 @@
     "@angular/platform-browser": "~10.0.6",
     "@angular/platform-browser-dynamic": "~10.0.6",
     "@angular/router": "~10.0.6",
+    "bip38": "^3.1.1",
+    "bitcoinjs-message": "^2.1.1",
+    "city-coininfo": "^5.0.0",
+    "city-lib": "^5.0.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
+    "@angular-builders/custom-webpack": "^10.0.0",
     "@angular-devkit/build-angular": "~0.1000.5",
     "@angular/cli": "~10.0.5",
     "@angular/compiler-cli": "~10.0.6",
